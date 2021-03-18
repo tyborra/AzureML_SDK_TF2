@@ -2,9 +2,9 @@
 A basic template for deploying TensorFlow2 models with AzureML SDK. Some interesting 
 features include:
 
-> - Functions to create dicts for scalers and encoders for use in score.py
+> - Functions to create dicts for scalars and encoders for use in score.py
 > - Embedding based model for tabular data
-> - Implementation of cyclical learning rates from from https://github.com/bckenstler/CLR
+> - Implementation of cyclical learning rates from https://github.com/bckenstler/CLR
 > - Data validation in the score.py
 > - An implementation of Cosine Similarity 
 > - Refitting of TF model in score.py
